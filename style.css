@@ -1,0 +1,25 @@
+.main{
+    border: 2px solid black;
+    background-color: black;
+    width: 300px;
+    margin: 0 auto;
+    height: 265px;
+}
+.result{
+    width: 97.5%;
+    background-color:red;
+    color: white;
+    margin: 0px 0px 10px 0px;
+    height: 35px;
+}
+.btn{
+    background-color: white;
+    width: 65px;
+    margin: 2px;
+    margin-left: 4.5px;
+}
+.equalbtn{
+    background-color: red;
+    width: 65px;
+    margin-left:4.5px;
+}
